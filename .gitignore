@@ -4,6 +4,7 @@
 /tools
 /zephyr
 /zmk-config
+/external-zmk-modules
 /build
 
 # macOS
